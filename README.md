@@ -1,5 +1,5 @@
 # Mac Script for Installation C/C++ Compiler
-This script is for installing the compiler on macOS. It will install the compiler and set the environment variables. The script is written in bash and can be run from the terminal.
+This script is for installing the compiler on macOS. It will install the compiler and set the environment variables. The script can run in the terminal just like bread and butter.
 
 ## Installation
 To install the compiler, run the following command in the terminal:
@@ -22,8 +22,6 @@ sudo mac_script.sh program.c
 sudo mac_script.sh program.cpp
 ```
 
-This will remove the compiler and any associated files from your system.
+## Support
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<a href="https://www.buymeacoffee.com/krunalkanojiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
